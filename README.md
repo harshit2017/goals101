@@ -19,6 +19,7 @@
 
 ## 7. Open client dir run: npm start
 ## 8. Open server dir run:npm start
+## 9. Access swagger docs using: http://localhost:3001/docs/
 
 
   
