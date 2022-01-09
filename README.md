@@ -11,11 +11,11 @@
 #### "development": {
 ####  "username": "***",
 ####  "password": "***",
-####  "database": "goalsdata",
+####  "database": "***",
 ####  "host": "localhost",
 ####   "dialect": "mysql"}
 
-## 6. Create db in My Sql named:goalsdata,set password and username as mentioned in config.json
+## 6. Create db in My Sql and then replace *** in config.json
 
 ## 7. Open client dir run: npm start
 ## 8. Open server dir run:npm start
