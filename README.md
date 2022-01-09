@@ -1,13 +1,13 @@
 # Setup and Install Instructions
 
-## Clone Repo
-## Go to client dir run following cmd:
+## 1. Clone Repo
+## 2. Go to client dir run following cmd:
 ### npm install
-## Go to server dir run following cmd:
+## 3. Go to server dir run following cmd:
 ### npm install
 
-## Download My Sql workbench and Community server
-## Open server/config/config.json file
+## 4. Download My Sql workbench and Community server
+## 5. Open server/config/config.json file
 #### "development": {
 ####  "username": "root",
 ####  "password": "password",
@@ -15,10 +15,10 @@
 ####  "host": "localhost",
 ####   "dialect": "mysql"}
 
-## Create db in My Sql named:goalsdata,set password and username as mentioned above
+## 6. Create db in My Sql named:goalsdata,set password and username as mentioned above
 
-## Open client dir run: npm start
-## Open server dir run:npm start
+## 7. Open client dir run: npm start
+## 8. Open server dir run:npm start
 
 
   
