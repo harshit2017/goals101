@@ -1,8 +1,9 @@
 {
+  
   "development": {
-    "username": "root",
-    "password": "hk5601890",
-    "database": "goalsdata",
+    "username": "*****",
+    "password": "*****",
+    "database": "*****",
     "host": "localhost",
     "dialect": "mysql"
   },
